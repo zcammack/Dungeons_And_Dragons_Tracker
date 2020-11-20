@@ -5,6 +5,11 @@ ruby '2.6.1'
 
 gem 'devise'
 
+gem 'omniauth-facebook'
+
+gem 'figaro'
+
+gem 'pundit'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.4'
